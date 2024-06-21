@@ -1,5 +1,5 @@
 function getValue() {
-  return 26;
+  return 25;
 }
 
 console.log(getValue());
