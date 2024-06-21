@@ -1,8 +1,8 @@
-function getValue() {
-  return 25;
+function getValueof25() {
+  return 20;
 }
 
 console.log(getValue());
 console.log("hllo!");
 
-export default getValue;
+export default getValueof25;
